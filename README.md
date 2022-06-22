@@ -80,7 +80,7 @@ Our group wants to reproduce the result using traditional math formulas instead 
 4. Sky replacement
 5. Boundary smoothing  
 
-**Results & Analysis**
+**Results**
 
 ![](TermProject/imgs/result1.png)
 ![](TermProject/imgs/result2.png)
