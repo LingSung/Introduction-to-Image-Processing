@@ -4,8 +4,9 @@ Labs and Term project of Introduction to Image Processing.
 
 ## Lab1
 
-[Problem link](http://www.imageprocessingplace.com/DIP-3E/dip3e_student_projects.htm)
-[Image link](http://www.imageprocessingplace.com/DIP-3E/dip3e_book_images_downloads.htm)
+### Link
+- [Problem link](http://www.imageprocessingplace.com/DIP-3E/dip3e_student_projects.htm)
+- [Image link](http://www.imageprocessingplace.com/DIP-3E/dip3e_book_images_downloads.htm)
 
 ### Proj02-02
 - Reducing the Number of Intensity Levels in an Image
@@ -18,8 +19,9 @@ Labs and Term project of Introduction to Image Processing.
 
 ## Lab2
 
-[Problem link](http://www.imageprocessingplace.com/DIP-3E/dip3e_student_projects.htm)
-[Image link](http://www.imageprocessingplace.com/DIP-3E/dip3e_book_images_downloads.htm)
+### Link
+- [Problem link](http://www.imageprocessingplace.com/DIP-3E/dip3e_student_projects.htm)
+- [Image link](http://www.imageprocessingplace.com/DIP-3E/dip3e_book_images_downloads.htm)
 
 ### Proj03-01 
 - Image Enhancement Using Intensity Transformations
@@ -33,8 +35,9 @@ Labs and Term project of Introduction to Image Processing.
 
 ## Lab3
 
-[Problem link](http://www.imageprocessingplace.com/DIP-3E/dip3e_student_projects.htm)
-[Image link](http://www.imageprocessingplace.com/DIP-3E/dip3e_book_images_downloads.htm)
+### Link
+- [Problem link](http://www.imageprocessingplace.com/DIP-3E/dip3e_student_projects.htm)
+- [Image link](http://www.imageprocessingplace.com/DIP-3E/dip3e_book_images_downloads.htm)
 
 ### Proj.04-01
 - Two-Dimensional Fast Fourier Transform
@@ -50,8 +53,9 @@ Labs and Term project of Introduction to Image Processing.
 
 ## Lab4
 
-[Problem link](http://www.imageprocessingplace.com/DIP-3E/dip3e_student_projects.htm)
-[Image link](http://www.imageprocessingplace.com/DIP-3E/dip3e_book_images_downloads.htm)
+### Link
+- [Problem link](http://www.imageprocessingplace.com/DIP-3E/dip3e_student_projects.htm)
+- [Image link](http://www.imageprocessingplace.com/DIP-3E/dip3e_book_images_downloads.htm)
 
 ### Proj05-01
 - Noise Generators
@@ -77,6 +81,7 @@ Our group wants to reproduce the result using traditional math formulas instead 
 5. Boundary smoothing  
 
 **Results & Analysis**
+
 ![](Term\ Project/imgs/result1.png)
 ![](Term\ Project/imgs/result2.png)
 ![](Term\ Project/imgs/result3.png)
