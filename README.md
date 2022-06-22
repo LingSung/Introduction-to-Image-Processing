@@ -70,7 +70,7 @@ Labs and Term project of Introduction to Image Processing.
 
 ### Sky Replacement
 
-Movtivated by paper "Sky is Not the Limit: Semantic-Aware Sky Replacement". 
+Movtivated by paper "Sky is Not the Limit: Semantic-Aware Sky Replacement".\ 
 Our group wants to reproduce the result using traditional math formulas instead of A.I. or Machine Learning(ML) techniques.
 
 **Project structure:**
