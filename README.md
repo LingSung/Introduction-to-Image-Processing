@@ -82,6 +82,6 @@ Our group wants to reproduce the result using traditional math formulas instead 
 
 **Results & Analysis**
 
-![](Term\ Project/imgs/result1.png)
-![](Term\ Project/imgs/result2.png)
-![](Term\ Project/imgs/result3.png)
+![](TermProject/imgs/result1.png)
+![](TermProject/imgs/result2.png)
+![](TermProject/imgs/result3.png)
