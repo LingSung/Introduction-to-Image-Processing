@@ -1,8 +1,5 @@
 # Introduction-to-Image-Processing
 
-NTHU CS. 10910 CS452000 Introduction to Image Processing. 
-<br/>
-<br/>
 Labs and Term project of Introduction to Image Processing.
 
 ## Lab1
