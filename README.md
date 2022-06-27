@@ -10,6 +10,7 @@ NTHU CS. 10910 CS452000 Introduction to Image Processing.
 
 ### Proj02-02
 - Reducing the Number of Intensity Levels in an Image
+![](imgs/02-02.jpg)
 
 ### Proj02-03
 - Zooming and Shrinking Images by Pixel Replication
